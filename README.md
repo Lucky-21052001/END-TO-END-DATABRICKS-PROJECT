@@ -1,6 +1,7 @@
 ![Screenshot (166)](https://github.com/user-attachments/assets/a0c49050-8a1a-4c1d-90df-bca4aa0ba8e2)
 
 ✈️ Flight Analytics Pipeline – End-to-End Lakehouse Project with Delta Live Tables & dbt
+
 📌 Overview
 This project demonstrates a complete end-to-end data engineering pipeline for flight data analytics using Databricks Delta Live Tables (DLT) and dbt. It follows the medallion architecture (bronze, silver, gold) to build a reliable and governed lakehouse system. The goal is to showcase scalable ingestion, reusable transformation logic, automated data quality enforcement, and curated insights ready for reporting and analysis.
 
